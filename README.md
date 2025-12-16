@@ -8,7 +8,7 @@
 🌱 Learning modern frontend animations & full-stack scalability  
 🏢 Working at Codespire, Surat  
 💬 Ask me about Next.js, React, MongoDB, Express.js, GSAP  
-📫 Reach me at: your-email@example.com  
+📫 Reach me at: aesha@gmail.com  
 ⚡ Fun fact: I animate pixels & caffeinate bugs ☕🐞  
 
 🛠️ Tech Stack
