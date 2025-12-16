@@ -1,11 +1,29 @@
-## Hi there 👋
+👋 Hi, I'm Aesha Modi
 
-Hello, my name is Aesha.
-Main ek student hoon / fresher hoon.
-Main abhi naye skills seekh raha hoon aur apni knowledge improve kar raha hoon.
+🚀 Full Stack Developer | 💼 Working at Codespire, Surat
 
-Mujhe learning, problem solving aur projects pe kaam karna pasand hai.
-Main ek hardworking aur self-motivated person hoon.
+👨‍💻 About Me
+━━━━━━━━━━━━━━━
+🚀 Currently working on Next.js, GSAP & MERN projects  
+🌱 Learning modern frontend animations & full-stack scalability  
+🏢 Working at Codespire, Surat  
+💬 Ask me about Next.js, React, MongoDB, Express.js, GSAP  
+📫 Reach me at: your-email@example.com  
+⚡ Fun fact: I animate pixels & caffeinate bugs ☕🐞  
 
-Mera goal hai skills develop karna aur apna career banana.
-Thank you.
+🛠️ Tech Stack
+━━━━━━━━━━━━━━━
+💻 HTML • CSS • JavaScript • TypeScript  
+⚛️ React • Next.js  
+🟢 Node.js • Express.js  
+🍃 MongoDB  
+🔧 Git • GitHub • VS Code  
+
+🙋‍♂️ My Self
+━━━━━━━━━━━━━━━
+👤 Name   : Rupa Prajapati  
+🏫 College: Sutex College of compute Application & Science 
+📍 State  : Gujarat  
+🎯 Hobby  : Coding & Learning New Technologies  
+
+⭐ Thank you for visiting my GitHub profile!
